@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "The Social Impact Guild",
+    "title": "Social Impact Guild",
     "description": "",
     "home_page_url": "https://blog.socialimpactguild.com",
     "feed_url": "https://blog.socialimpactguild.com/feed.json",
@@ -24,7 +24,7 @@
                    "Interview"
             ],
             "date_published": "2021-02-17T17:40:12-05:00",
-            "date_modified": "2021-02-22T09:14:49-05:00"
+            "date_modified": "2021-02-22T11:05:04-05:00"
         },
         {
             "id": "https://blog.socialimpactguild.com/sahithya-anumolus-journey-to-become-a-social-entrepreneur.html",
@@ -137,7 +137,7 @@
                    "Editor Pick&#x27;s"
             ],
             "date_published": "2021-01-05T19:02:00-05:00",
-            "date_modified": "2021-02-11T08:25:50-05:00"
+            "date_modified": "2021-02-22T11:04:46-05:00"
         }
     ]
 }
