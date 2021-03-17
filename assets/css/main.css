@@ -1975,7 +1975,7 @@ ul.icons li:last-child {
   padding-right: 0;
 }
 ul.icons li .icon {
-  color: white;
+  color: #3d4449;
 }
 ul.icons li .icon:before {
   font-size: 1.25em;
@@ -3418,7 +3418,6 @@ hr::before,
   align-self: flex-end;
 }
 #header .title h1 {
-	color: white;
 	margin: 0;
     font-size: 2em;
 }
