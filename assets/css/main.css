@@ -108,24 +108,9 @@ body.is-preload *, body.is-preload *:before, body.is-preload *:after, body.is-re
 body, input, select, textarea {
   color: #7f888f;
   font-family: var(--primary-font);
-  font-size: 13pt;
+  font-size: 12pt;
   font-weight: var(--font-weight-normal);
   line-height: 1.65;
-}
-@media screen and (max-width: 1680px) {
-  body, input, select, textarea {
-    font-size: 11pt;
-  }
-}
-@media screen and (max-width: 1280px) {
-  body, input, select, textarea {
-    font-size: 10pt;
-  }
-}
-@media screen and (max-width: 360px) {
-  body, input, select, textarea {
-    font-size: 9pt;
-  }
 }
 
 a {
