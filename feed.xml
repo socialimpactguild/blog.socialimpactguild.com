@@ -3,7 +3,7 @@
     <title>Social Impact Guild</title>
     <link href="https://blog.socialimpactguild.com/feed.xml" rel="self" />
     <link href="https://blog.socialimpactguild.com" />
-    <updated>2021-04-29T08:01:02-04:00</updated>
+    <updated>2021-04-29T11:41:00-04:00</updated>
     <author>
         <name>Nadia Humbert-Labeaumaz</name>
     </author>
@@ -179,7 +179,7 @@
         <id>https://blog.socialimpactguild.com/oacc.html</id>
             <category term="Interview"/>
 
-        <updated>2021-04-27T21:34:23-04:00</updated>
+        <updated>2021-04-29T11:41:00-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.socialimpactguild.com/media/posts/17/image-6-2.jpg" alt="" />
@@ -201,7 +201,9 @@
 <p>It tries to come to a collective solution by engaging with the people it will serve to understand their needs properly. They should be at the centre of creating and not just providing inputs.</p>
 <h3>The Five Steps of the Human-Centred Design</h3>
 <p>The human-centred design process contains five steps: Framing, Empathising, Synthesising, Concepting and Prototyping.</p>
-<figure class="post__image align-center"><img loading="lazy"  src="https://blog.socialimpactguild.com/media/posts/17/hcd.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://blog.socialimpactguild.com/media/posts/17/responsive/hcd-xs.png 300w ,https://blog.socialimpactguild.com/media/posts/17/responsive/hcd-sm.png 480w ,https://blog.socialimpactguild.com/media/posts/17/responsive/hcd-md.png 768w"  alt="" width="752" height="278"></figure>
+<figure class="post__image" ><img loading="lazy" src="https://blog.socialimpactguild.com/media/posts/17/hcd.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://blog.socialimpactguild.com/media/posts/17/responsive/hcd-xs.png 300w ,https://blog.socialimpactguild.com/media/posts/17/responsive/hcd-sm.png 480w ,https://blog.socialimpactguild.com/media/posts/17/responsive/hcd-md.png 768w"  alt="" width="752" height="278">
+<figcaption >OACC's HCD Framework</figcaption>
+</figure>
 <p>The two first steps are those involving primary and secondary data collection.</p>
 <ul>
 <li><strong>Framing</strong> is about understanding the team's capacity based on the available resources as well as defining assets, budget and time. This step's inputs include the project's broad definition and secondary data.</li>
