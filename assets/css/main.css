@@ -3701,6 +3701,12 @@ section.subscribe button.formkit-submit span {
   padding:unset !important;
 }
 
+section.subscribe form.formkit-form .formkit-fields {
+	flex-wrap: nowrap;
+	flex-direction: column;
+    align-items: stretch;
+}
+
 button.formkit-submit span {
   padding: 0 20px !important;
 }
