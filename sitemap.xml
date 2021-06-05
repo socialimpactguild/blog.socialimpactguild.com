@@ -238,7 +238,7 @@
 </url>
 <url>
 <loc>https://blog.socialimpactguild.com/origin-story.html</loc>
-<lastmod>2021-06-03T14:30:06-04:00</lastmod>
+<lastmod>2021-06-05T18:23:52-04:00</lastmod>
 <image:image>
 <image:loc>https://blog.socialimpactguild.com/media\posts\1/origin-story-plant.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -246,6 +246,9 @@
 </url>
 <url>
 <loc>https://blog.socialimpactguild.com/page/2/</loc>
+</url>
+<url>
+<loc>https://blog.socialimpactguild.com/page/3/</loc>
 </url>
 <url>
 <loc>https://blog.socialimpactguild.com/pow-hearing.html</loc>
@@ -336,12 +339,28 @@
 </image:image>
 </url>
 <url>
-<loc>https://blog.socialimpactguild.com/welcome.html</loc>
-<lastmod>2021-06-03T11:40:06-04:00</lastmod>
+<loc>https://blog.socialimpactguild.com/turning-face-masks-into-trees-and-cleaning-up-the-ocean.html</loc>
+<lastmod>2021-06-05T19:41:33-04:00</lastmod>
 <image:image>
-<image:loc>https://blog.socialimpactguild.com/media\posts\8/welcome.jpg</image:loc>
+<image:loc>https://blog.socialimpactguild.com/media\posts\25/1-Cover.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
+<image:image>
+<image:loc>https://blog.socialimpactguild.com/media\posts\25/1-Paperco.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.socialimpactguild.com/media\posts\25/1-Clean-Ocean.jpg</image:loc>
+<image:title><![CDATA[System to gather floating plastic pollution in the ocean]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.socialimpactguild.com/media\posts\25/1-Clean-Rivers.png</image:loc>
+<image:title><![CDATA[System to gather float plastic pollution in rivers]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://blog.socialimpactguild.com/welcome.html</loc>
+<lastmod>2021-06-05T19:56:45-04:00</lastmod>
 </url>
 <url>
 <loc>https://blog.socialimpactguild.com/what-is-a-social-entrepreneur.html</loc>
