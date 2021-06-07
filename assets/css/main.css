@@ -3707,6 +3707,20 @@ section.subscribe form.formkit-form .formkit-fields {
     align-items: stretch;
 }
 
+div.banner {
+	margin-top: 3em;
+    text-align: center;
+    margin-bottom: -3em;
+}
+
+@media screen and (max-width: 768px) {
+	div.banner {
+		margin-top: 2em;
+		text-align: center;
+		margin-bottom: -2em;
+	}
+}
+
 button.formkit-submit span {
   padding: 0 20px !important;
 }
