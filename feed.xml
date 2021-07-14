@@ -3,7 +3,7 @@
     <title>The Social Impact Guild</title>
     <link href="https://blog.socialimpactguild.com/feed.xml" rel="self" />
     <link href="https://blog.socialimpactguild.com" />
-    <updated>2021-07-14T09:43:23-04:00</updated>
+    <updated>2021-07-14T11:08:19-04:00</updated>
     <author>
         <name>Nadia Humbert-Labeaumaz</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://blog.socialimpactguild.com/gardening-underwater-and-replacing-pesticides-with-laser-beams.html</id>
             <category term="Newsletter"/>
 
-        <updated>2021-07-14T08:45:54-04:00</updated>
+        <updated>2021-07-14T11:08:19-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.socialimpactguild.com/media/posts/31/underwater.jpg" alt="" />
@@ -38,7 +38,7 @@
 <li style="font-weight: 400;" aria-level="1">G7 pledged to scale up technologies and policies that will accelerate the transition away from coal power, including ending new government support for coal power <a href="https://earth.org/g7-pledges-to-end-support-for-coal-power/" style="font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);" target="_blank" rel="noopener">by the end of this year</a><span style="font-weight: 400;">.</span></li>
 </ul>
 <h2> </h2>
-<h2><span style="font-weight: 400;">🌱 The Underwater Garden</span></h2>
+<h2 id="nemo"><span style="font-weight: 400;">🌱 The Underwater Garden</span></h2>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://blog.socialimpactguild.com/media/posts/31/nemosgarden-2.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://blog.socialimpactguild.com/media/posts/31/responsive/nemosgarden-2-xs.jpg 300w ,https://blog.socialimpactguild.com/media/posts/31/responsive/nemosgarden-2-sm.jpg 480w ,https://blog.socialimpactguild.com/media/posts/31/responsive/nemosgarden-2-md.jpg 768w"  alt="" width="1080" height="608"></figure>
 <p>While enjoying vacation by the Italian sea, Sergio Gamberini wondered whether he could combine his passions for scuba diving and gardening to grow basil underwater. Indeed, akin to most herbs, this essential ingredient for pesto prefers protected, sunny locations with well-drained soils and a constant, stable temperature - everything the bottom of the sea can provide!</p>
 <p>From this question, Sergio created <a href="http://www.nemosgarden.com/" target="_blank" rel="noopener noreferrer">Nemo’s Garden</a>. This project consists of transparent, air-filled biospheres 20 feet below the sea surface to create an alternative agriculture system.</p>
@@ -46,7 +46,7 @@
 <p>Otherwise, current experiments demonstrated that the amount of sunlight illuminating the biosphere is sufficient to allow the plants to grow.</p>
 <p><strong>Why does it matter? </strong>Today, <a href="https://blogs.worldbank.org/opendata/chart-globally-70-freshwater-used-agriculture" target="_blank" rel="noopener noreferrer">70% of global fresh water</a> is used for agriculture, and the growing population will further increase the pressure on water resources. In this context, agriculture is one of the most vulnerable sectors to climate change.</p>
 <p>For now, Nemo’s Garden is an experiment, and underwater agriculture's limits are yet to be defined. However, this project is extremely interesting for our planet's future as it uses renewable energy from the sun and generates fresh water from sea water desalination.</p>
-<h2>🐞 The Team That Wants to Replace Pesticides With Laser Beams</h2>
+<h2 id="laser">🐞 The Team That Wants to Replace Pesticides With Laser Beams</h2>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://blog.socialimpactguild.com/media/posts/31/pea.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://blog.socialimpactguild.com/media/posts/31/responsive/pea-xs.jpg 300w ,https://blog.socialimpactguild.com/media/posts/31/responsive/pea-sm.jpg 480w ,https://blog.socialimpactguild.com/media/posts/31/responsive/pea-md.jpg 768w"  alt="" width="1920" height="1081"></figure>
 <p>A team of researchers in Lyon, France, leveraged their knowledge in artificial intelligence to develop a technology that identifies and removes pest from plants. For their proof of concept, they chose a particularly tough opponent.</p>
 <p>The pea aphid is a sap-sucking insect that feeds on legumes such as pea, clover, alfalfa, and broad bean. This pest is extremely hard to find since it’s only a few millimetres long, enjoys hiding below the leaves and is green!</p>
@@ -56,7 +56,7 @@
 <p>The Greenshield project could be a major breakthrough for sustainable agriculture and biodiversity protection 🐝</p>
 <p>(source: insa-lyon.fr)</p>
 <p> </p>
-<h1>🎯 The Guild’s Pick</h1>
+<h2 id="pick">🎯 The Guild’s Pick</h2>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://blog.socialimpactguild.com/media/posts/31/mosquitia.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://blog.socialimpactguild.com/media/posts/31/responsive/mosquitia-xs.jpg 300w ,https://blog.socialimpactguild.com/media/posts/31/responsive/mosquitia-sm.jpg 480w ,https://blog.socialimpactguild.com/media/posts/31/responsive/mosquitia-md.jpg 768w"  alt="" width="1000" height="563"></figure>
 <p><a href="https://www.facebook.com/MosquitiaMed" target="_blank" rel="noopener noreferrer">MosquitiaMed</a> is a volunteer-based organization using telemedicine to improve access to health for the Miskitos community in Honduras. This group's first goal is to educate the population about basic healthcare to promote and share community-based solutions to simple health problems. As a result, they solve low-complexity health issues, avoid unnecessary referrals, and reduce complications from lack of treatment.</p>
 <p>For more serious health issues, the organization provides telemedicine through a mobile application to offer access to specialists in Tegucigalpa, Honduras’ capital city. If required, it can also gather resources to move the patient to Tegucigalpa and treat them for free.</p>
