@@ -184,17 +184,17 @@ h6 {
 
 @media screen and (max-width: 1680px) {
   h1 {
-    font-size: 2.75em;
+    font-size: 2.5em;
   }
 }
 @media screen and (max-width: 980px) {
   h1 {
-    font-size: 2.25em;
+    font-size: 2em;
   }
 }
 @media screen and (max-width: 736px) {
   h1 {
-    font-size: 2em;
+    font-size: 1.8em;
     line-height: 1.4;
   }
 
@@ -3735,4 +3735,59 @@ button.formkit-submit span:hover {
 
 form.formkit-form {
   margin: unset !important;
+}
+
+.posts .meta {
+  font-size: 0.7em;
+}
+
+.meta {
+  margin-bottom: 0.7em;
+  display: flex;
+}
+
+@media screen and (max-width: 768px) {
+	.meta {
+		flex-direction: column;
+	}
+}
+
+.meta > * {
+  margin-bottom: 0;
+}
+
+@media screen and (min-width: 768px) {
+	.post__date + .tags::before {
+		content: '//';
+		padding-right: 0.7em;
+		padding-left: 0.7em;
+	}
+}
+
+.meta .tags {
+    display: -moz-flex;
+    display: -ms-flex;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    cursor: default;
+    list-style: none;
+    padding-left: 0;
+}
+
+.meta .tags a {
+    border: none;
+    text-transform: uppercase;
+    font-weight: bold;
+	letter-spacing: 0.075em;
+}
+
+.posts__meta-tag {
+	padding-left: 0;
+}
+
+.posts__meta-tag + .posts__meta-tag::before {
+	content: '•';
+    padding-left: 0.5em;
+    padding-right: 0.5em;
 }
