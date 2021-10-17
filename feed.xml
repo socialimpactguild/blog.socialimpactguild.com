@@ -3,7 +3,7 @@
     <title>The Social Impact Guild - Top Social Innovation News</title>
     <link href="https://blog.socialimpactguild.com/feed.xml" rel="self" />
     <link href="https://blog.socialimpactguild.com" />
-    <updated>2021-10-15T02:47:38-04:00</updated>
+    <updated>2021-10-16T16:20:27-04:00</updated>
     <author>
         <name>Nadia Humbert-Labeaumaz</name>
     </author>
@@ -16,8 +16,9 @@
         </author>
         <link href="https://blog.socialimpactguild.com/virtual-reality-and-teddy-bears.html"/>
         <id>https://blog.socialimpactguild.com/virtual-reality-and-teddy-bears.html</id>
+            <category term="Newsletter"/>
 
-        <updated>2021-10-13T12:12:41-04:00</updated>
+        <updated>2021-10-16T16:18:26-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.socialimpactguild.com/media/posts/43/teddy-bear.jpg" alt="" />
@@ -100,7 +101,7 @@
         <id>https://blog.socialimpactguild.com/water-light-and-microcapsules.html</id>
             <category term="Newsletter"/>
 
-        <updated>2021-10-15T02:47:38-04:00</updated>
+        <updated>2021-10-16T16:20:27-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.socialimpactguild.com/media/posts/42/cover17.jpg" alt="" />
