@@ -3809,7 +3809,7 @@ section#subscribe {
 	padding-bottom: 0 !important;
 }
 
-section#subscribe .formkit-form[data-uid="e7e05851da"] {
+section#subscribe .formkit-form {
     box-shadow: none !important;
     max-width: none !important;
 }
