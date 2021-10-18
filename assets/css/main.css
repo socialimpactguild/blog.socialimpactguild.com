@@ -157,7 +157,7 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 }
 
 h1 {
-  font-size: 4em;
+  font-size: 3em;
   margin: 0 0 0.5em 0;
   line-height: 1.3;
 }
@@ -3379,9 +3379,8 @@ hr::before,
   display: -ms-flexbox;
   display: flex;
   border-bottom: solid 5px var(--color);
-  padding: 1em 1em 1em 1em;
+  padding: 1em 1em 2em 1em;
   position: relative;
-  border-radius: 0.375em;
   background-clip: padding-box;
   background-size: cover;
   background-position: center;
@@ -3400,24 +3399,24 @@ hr::before,
 }
 
 #header .subscribe-button {
-  align-self: flex-end;
-  color: white;
-  background: var(--color);
-  font-size: 1rem;
-  text-decoration: none;
-  padding: 10px 20px;
-  text-transform: capitalize;
-  box-shadow: none;
-  border: none;
-  outline: 0;
-  display: block;
-  text-align: center;
-  cursor: pointer;
-  min-width: 200px;
-  border-radius: 30px;
-  font-weight: 700;
-  font-size: 1.15em;
-  line-height: 1.75em;
+	align-self: flex-end;
+	color: #fff;
+	background: var(--color);
+	font-size: 1rem;
+	text-decoration: none;
+	padding: 8px 10px;
+	text-transform: capitalize;
+	box-shadow: none;
+	border: none;
+	outline: 0;
+	display: block;
+	text-align: center;
+	cursor: pointer;
+	min-width: 150px;
+	border-radius: 5px;
+	font-weight: 700;
+	font-size: 1.15em;
+	line-height: 1.75em;
 }
 
 #header .subscribe-button a {
@@ -3432,7 +3431,7 @@ hr::before,
 
 #header .title h1 {
 	margin: 0;
-    font-size: 2.3em;
+    font-size: 2.2em;
 }
 
 #subscribe-banner {
@@ -3460,23 +3459,36 @@ hr::before,
   }
 }
 
+@media screen and (min-width: 900px) {
+	#header .title {
+		padding-left: 15px;
+	}
+}
+
 @media screen and (max-width: 736px) {
   #header {
     margin-top: 1em;
     justify-content: center;
   }
-  #header > * {
-	margin-left: 1em;
-  }
   #header .logo {
-    font-size: 1.25em;
+    font-size: 1.8em;
     margin: 0;
   }
   #header .subscribe-button {
     display: none;
   }
+  #header .title {
+    margin-left: -0.5em;
+  }
   #header .title h1 {
-    font-size: 1.5em;
+    font-size: 1.8em;
+	text-align: center;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  #header .title h1 {
+    font-size: 1.8em;
   }
 }
 
@@ -3790,4 +3802,14 @@ form.formkit-form {
 	content: '•';
     padding-left: 0.5em;
     padding-right: 0.5em;
+}
+
+section#subscribe {
+	padding-top: 0 !important;
+	padding-bottom: 0 !important;
+}
+
+section#subscribe .formkit-form[data-uid="e7e05851da"] {
+    box-shadow: none !important;
+    max-width: none !important;
 }
