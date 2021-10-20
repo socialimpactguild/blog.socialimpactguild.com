@@ -3281,11 +3281,11 @@ hr::before,
 }
 @media screen and (max-width: 1680px) {
   #sidebar {
-    width: 24em;
+    width: 18em;
   }
   #sidebar > .inner {
     padding: 1.6666666667em 1.6666666667em 1.3333333333em 1.6666666667em;
-    width: 24em;
+    width: 18em;
   }
   #sidebar > .inner > .alt {
     margin: -1.6666666667em 0 3.3333333333em -1.6666666667em;
@@ -3294,7 +3294,7 @@ hr::before,
   }
   #sidebar .toggle {
     height: 6.25em;
-    left: 24em;
+    left: 18em;
     line-height: 6.25em;
     text-indent: 5em;
     width: 5em;
@@ -3303,7 +3303,7 @@ hr::before,
     font-size: 1.5rem;
   }
   #sidebar.inactive {
-    margin-left: -24em;
+    margin-left: -18em;
   }
 }
 @media screen and (max-width: 1280px) {
@@ -3768,7 +3768,7 @@ form.formkit-form {
   margin-bottom: 0;
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 900px) {
 	.post__date + .tags::before {
 		content: '//';
 		padding-right: 0.7em;
@@ -3812,4 +3812,24 @@ section#subscribe {
 section#subscribe .formkit-form {
     box-shadow: none !important;
     max-width: none !important;
+}
+
+section#banner h1 {
+  font-size: 2.125em;
+}
+
+@media screen and (max-width: 1680px) {
+  section#banner h1 {
+    font-size: 1.9em;
+  }
+}
+@media screen and (max-width: 980px) {
+  section#banner h1 {
+    font-size: 1.8em;
+  }
+}
+@media screen and (max-width: 736px) {
+  section#banner h1 {
+    font-size: 1.7em;
+  }
 }
