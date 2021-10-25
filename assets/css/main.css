@@ -4536,3 +4536,14 @@ article.related__item .image {
     flex-direction: column;
   }
 }
+
+.socials {
+  margin-bottom: 1em;
+}
+
+.socials a {
+    border: none;
+    font-size: 1.25em;
+    padding: 0 0.25em 0 0.25em;
+    color: var(--primary-font);
+}
