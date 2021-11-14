@@ -24,8 +24,8 @@
                    "Global Warming",
                    "Agriculture"
             ],
-            "date_published": "2021-11-08T12:13:30-05:00",
-            "date_modified": "2021-11-08T12:14:30-05:00"
+            "date_published": "2021-11-08T09:13:30-08:00",
+            "date_modified": "2021-11-08T09:14:30-08:00"
         },
         {
             "id": "https://blog.socialimpactguild.com/owls-replace-pesticides-in-californian-wineries.html",
@@ -41,8 +41,8 @@
                    "Biodiversity",
                    "Agriculture"
             ],
-            "date_published": "2021-11-08T12:11:01-05:00",
-            "date_modified": "2021-11-08T12:11:01-05:00"
+            "date_published": "2021-11-08T09:11:01-08:00",
+            "date_modified": "2021-11-08T09:11:01-08:00"
         },
         {
             "id": "https://blog.socialimpactguild.com/american-entrepreneur-designs-a-wind-powered-wall.html",
@@ -57,8 +57,8 @@
             "tags": [
                    "Energy"
             ],
-            "date_published": "2021-11-08T12:05:43-05:00",
-            "date_modified": "2021-11-08T12:11:09-05:00"
+            "date_published": "2021-11-08T09:05:43-08:00",
+            "date_modified": "2021-11-08T09:11:09-08:00"
         },
         {
             "id": "https://blog.socialimpactguild.com/whats-up-this-week-drivers-can-exchange-their-old-car-for-a-3-year-free-transit-pass-in-barcelona-and-more.html",
@@ -66,15 +66,15 @@
             "title": "What&#x27;s up this week? Drivers can exchange their old car for a 3-year free transit pass in Barcelona and more.",
             "summary": "In Barcelona, drivers can exchange their old car for a 3-year free transit pass. Since public transit infrastructure already exists,&hellip;",
             "content_html": "<ul>\n<li>In Barcelona, drivers can exchange their old car for a 3-year <a href=\"https://www.tmb.cat/en/barcelona-fares-metro-bus/single-and-integrated/t-verda\" target=\"_blank\" rel=\"noopener noreferrer\">free transit pass</a>. Since public transit infrastructure already exists, promoting such incentives is significantly cheaper for the city than advertising electric vehicles.</li>\n<li>Paris invested $260 million to become 100% bicycle-friendly by 2026. The \"Plan Velo: Act 2\" is part of a greater endeavour to remove cars from the city centre, including transforming the Champs-Élysées avenue into a vast community garden.</li>\n<li>Thanks to environmental education and new legislation that criminalizes poaching and consuming turtles, the number of loggerhead sea turtle nests on Cap Verde beaches increased by 2000% <a href=\"https://www.theguardian.com/environment/2021/oct/26/fragile-success-cape-verde-sea-turtles-aoe\" target=\"_blank\" rel=\"noopener noreferrer\">in the past six years</a>.</li>\n<li>In a highly successful trial, a ship operated by <a href=\"https://socialimpactguild.com/the-company-that-wants-to-clean-up-the-ocean\" target=\"_blank\" rel=\"noopener noreferrer\">The Ocean Cleanup</a> brought almost 30 tonnes of trash ashore. As a result, the non-profit organization now wants to scale up the operation to clean up the Great Pacific garbage patch.</li>\n<li>Scientists studying carbon sequestration discovered that whales account for around <a href=\"https://farallones.org/climate/blue-carbon\" target=\"_blank\" rel=\"noopener noreferrer\">60 percent of annual sequestration</a> in the areas they live – more than seagrass, salt marshes and kelp put together. Preserving the whales could therefore be instrumental to fixing the climate.</li>\n</ul>",
-            "image": "https://blog.socialimpactguild.com/media/posts/118/barcelona.jpg",
+            "image": "https://blog.socialimpactguild.com/media/posts/118/barcelona.png",
             "author": {
                 "name": "Nadia Humbert-Labeaumaz"
             },
             "tags": [
                    "Uplifting Trends &amp; Facts"
             ],
-            "date_published": "2021-11-08T12:00:50-05:00",
-            "date_modified": "2021-11-08T12:07:16-05:00"
+            "date_published": "2021-11-08T09:00:50-08:00",
+            "date_modified": "2021-11-14T13:41:56-08:00"
         },
         {
             "id": "https://blog.socialimpactguild.com/energy-wall-and-owls.html",
@@ -89,8 +89,8 @@
             "tags": [
                    "Newsletter"
             ],
-            "date_published": "2021-11-08T11:14:00-05:00",
-            "date_modified": "2021-11-08T12:17:40-05:00"
+            "date_published": "2021-11-08T08:14:00-08:00",
+            "date_modified": "2021-11-08T09:17:40-08:00"
         },
         {
             "id": "https://blog.socialimpactguild.com/new-hydrogel-tablets-can-purify-contaminated-water-in-minutes.html",
@@ -106,8 +106,8 @@
                    "Water",
                    "Communities"
             ],
-            "date_published": "2021-10-25T13:55:39-04:00",
-            "date_modified": "2021-10-26T15:33:56-04:00"
+            "date_published": "2021-10-25T10:55:39-07:00",
+            "date_modified": "2021-10-26T12:33:56-07:00"
         },
         {
             "id": "https://blog.socialimpactguild.com/a-pub-lets-you-pay-your-beer-with-old-iphones.html",
@@ -122,8 +122,8 @@
             "tags": [
                    "Circular Economy"
             ],
-            "date_published": "2021-10-25T13:54:11-04:00",
-            "date_modified": "2021-10-26T15:33:21-04:00"
+            "date_published": "2021-10-25T10:54:11-07:00",
+            "date_modified": "2021-10-26T12:33:21-07:00"
         },
         {
             "id": "https://blog.socialimpactguild.com/droneseed-leverages-drone-technology-to-further-reforestation-efforts.html",
@@ -139,8 +139,8 @@
                    "Global Warming",
                    "Biodiversity"
             ],
-            "date_published": "2021-10-25T13:52:37-04:00",
-            "date_modified": "2021-10-26T15:31:19-04:00"
+            "date_published": "2021-10-25T10:52:37-07:00",
+            "date_modified": "2021-10-26T12:31:19-07:00"
         },
         {
             "id": "https://blog.socialimpactguild.com/whats-up-this-week-coldplay-will-harness-their-fans-energy-to-make-their-concerts-more-sustainable-and-more.html",
@@ -155,8 +155,8 @@
             "tags": [
                    "Uplifting Trends &amp; Facts"
             ],
-            "date_published": "2021-10-25T13:23:42-04:00",
-            "date_modified": "2021-11-08T12:01:08-05:00"
+            "date_published": "2021-10-25T10:23:42-07:00",
+            "date_modified": "2021-11-08T09:01:08-08:00"
         },
         {
             "id": "https://blog.socialimpactguild.com/drones-and-beers.html",
@@ -171,8 +171,8 @@
             "tags": [
                    "Newsletter"
             ],
-            "date_published": "2021-10-25T13:18:43-04:00",
-            "date_modified": "2021-11-08T11:22:31-05:00"
+            "date_published": "2021-10-25T10:18:43-07:00",
+            "date_modified": "2021-11-08T08:22:31-08:00"
         }
     ]
 }
